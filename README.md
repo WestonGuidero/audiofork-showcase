@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://github.com/user-attachments/assets/e477b29a-dc3f-41ea-880d-8fdeed93ff58" alt="AudioFork app screenshot" width="820" />
+<img src="https://github.com/user-attachments/assets/f4df38e2-9615-4d69-b9d9-13dc7a01b05d" alt="AudioFork app screenshot" width="820" />
 
 # AudioFork
 
